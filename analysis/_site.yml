@@ -15,4 +15,5 @@ output:
     toc_float: yes
     theme: cosmo
     highlight: textmate
+    pandoc_args: ["--bibliography=add.bib"]
 bibliography: add.bib
