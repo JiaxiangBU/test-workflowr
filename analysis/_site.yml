@@ -1,5 +1,6 @@
 name: "test-workflowr"
 output_dir: ../docs
+author: "Other Name"
 navbar:
   title: "test-workflowr"
   left:
