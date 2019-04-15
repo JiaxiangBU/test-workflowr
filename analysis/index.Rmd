@@ -7,3 +7,8 @@ output:
 ---
 
 Welcome to my research website.
+
+1. [learn-literate-prog 1](learn-literate-prog.html)
+1. [learn-literate-prog 2](learn-literate-prog-2.html)
+1. [learn-literate-prog 3](learn-literate-prog-3.html)
+1. [learn-literate-prog 4](learn-literate-prog-4.html)
